@@ -13,6 +13,8 @@ Celles-ci ont été réalisées/modifiées avec la webapp Tinkercad.
 | ![Boitier bot](./Boitier%20(bot).png) | ![Boitier top](./Boitier%20(top).png) |
 | [Boitier (bot).stl](./Boitier%20(bot).stl) | [Boitier (top).stl](./Boitier%20(top).stl) |
 
+---
+
 ## Pince
 
 | Partie basse | Partie haute |
@@ -20,7 +22,13 @@ Celles-ci ont été réalisées/modifiées avec la webapp Tinkercad.
 | ![Pince bot](./Pince%20(bot).png) | ![Pince top](./Pince%20(top).png) |
 | [Pince (bot).stl](./Pince%20(bot).stl) | [Pince (top).stl](./Pince%20(top).stl) |
 
-### Source : 
+### Sources / Exemples :
+
+dimonick - ESP32-S3-Touch-LCD-1.69 housing 'WHATch'
+
+https://www.thingiverse.com/thing:7303995
+
+---
 
 mobi_electronik - Pulse Oximeter Finger Clip (MAX30102 module)
 
