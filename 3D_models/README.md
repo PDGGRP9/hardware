@@ -4,6 +4,8 @@ Dossier contenant tous les modèles 3D utilisés pour la confection du bracelet.
 
 Chaque pièce est fournie sous forme de fichier `.stl` (impression 3D) accompagné d'un aperçu `.png`.
 
+Celles-ci ont été réalisées/modifiées avec la webapp Tinkercad.
+
 ## Boîtier
 
 | Partie basse | Partie haute |
