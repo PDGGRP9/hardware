@@ -17,3 +17,9 @@ Chaque pièce est fournie sous forme de fichier `.stl` (impression 3D) accompagn
 |:---:|:---:|
 | ![Pince bot](./Pince%20(bot).png) | ![Pince top](./Pince%20(top).png) |
 | [Pince (bot).stl](./Pince%20(bot).stl) | [Pince (top).stl](./Pince%20(top).stl) |
+
+### Source : 
+
+mobi_electronik - Pulse Oximeter Finger Clip (MAX30102 module)
+
+https://www.thingiverse.com/thing:4395147
