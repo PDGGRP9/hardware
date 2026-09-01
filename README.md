@@ -26,5 +26,6 @@ Les composants ont été sélectionnés principalement pour leur **compacité** 
 
 ![Exemple de montage](images/ex_montage.jpg)
 
-![Exemple de montage](images/ex_montage2.png
-)
+![Exemple de montage](images/ex_montage3.jpg)
+
+![Exemple de montage](images/ex_montage2.png)
