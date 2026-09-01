@@ -19,4 +19,11 @@ Les composants ont été sélectionnés principalement pour leur **compacité** 
 
 ## Schéma de câblage
 
-![Schéma de câblage](images/Schema%20câblage.png)
+![Schéma de câblage](images/SchemaElec.png)
+
+## Exemple de montage
+
+![Exemple de montage](images/ex_montage.jpg)
+
+![Exemple de montage](images/ex_montage2.png
+)
