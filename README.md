@@ -16,6 +16,7 @@ Les composants ont été sélectionnés principalement pour leur **compacité** 
 | Batterie | LiPo | | Alimentation autonome du bracelet | https://www.digitec.ch/fr/s1/product/akyga-lp753636-akkupack-x-spezial-akku-lipo-37-v-1000-mah-1000-mah-370-v-batterie-rc-55702794 |
 | Bouton poussoir | | | Interaction utilisateur (allumage, mise en veille) | |
 | LED | | | Indicateur visuel d'état (charge, notification, etc.) | |
+| Résistances (2x) | 220 Ohm | | Résistances nécessaires pour le bouton et la LED | |
 
 ## Schéma de câblage
 
